@@ -1,1 +1,1 @@
-# portalnews-mobile-application-with-flutter
+news portal app built using flutter and api
